@@ -1,0 +1,48 @@
+@charset "UTF-8"
+
+/* css document*/
+
+#container
+{
+	width: 700px;
+	margin: 0 auto;
+}
+
+ .img-container {
+ text-align: center;
+ display: block;
+ }
+
+
+h1
+{
+font-family: 'Open Sans Condensed', sans-serif;
+font-size: 34px;
+text-align: center;
+line-height: 45px;
+letter-spacing: -1
+}
+
+h2
+{
+font-family: 'Dosis', sans-serif;
+font-size: 34px;
+text-align: center;
+line-height: 45px;
+letter-spacing: -1
+}
+
+h3
+{
+text-align: center;
+}
+
+p
+{
+font-family: 'Century Gothic', sans-serif;
+font-size: 20px;
+line-height: 25px;
+
+}
+
+
